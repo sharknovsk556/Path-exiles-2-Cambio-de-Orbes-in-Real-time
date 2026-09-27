@@ -1,0 +1,19 @@
+assistente-virtual-ia/
+│
+├── README.md
+├── data/
+│   ├── items.json        # Base de dados de itens (nome, raridade, preço médio)
+│   ├── currency.json     # Informações sobre orbs e moedas
+│
+├── docs/
+│   ├── guia_uso.md       # Documentação de como usar o assistente
+│   ├── economia.md       # Explicação sobre economia do jogo
+│
+├── src/
+│   ├── main.py           # Arquivo principal do assistente
+│   ├── utils.py          # Funções auxiliares (ex: conversão de moedas)
+│   ├── marketplace.py    # Lógica de compra e venda
+│   ├── chat.py           # Interface de interação (prompt/respostas)
+│
+└── requirements.txt      # Dependências (ex: openai, fastapi, etc.)
+requests
