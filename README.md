@@ -25,3 +25,7 @@ Pitch final: Como você explicaria o problema, sua solução, uma demonstração
 
 
 Importante: Apenas faça hoje oque voce poderia deixa para amanha
+
+Como executar: python .\src\main.py
+Depois digite orbs
+e voce vai obter o valor exato na hora exata! exibido em Suas mãos
